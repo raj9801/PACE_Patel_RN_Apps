@@ -5,7 +5,11 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>
-        My Name is Raj
+        Name: Raj Patel
+      </Text>
+    
+      <Text>
+        Email: rajpatel9801.ca@gmail.com
       </Text>
       <StatusBar style="auto" />
     </View>
