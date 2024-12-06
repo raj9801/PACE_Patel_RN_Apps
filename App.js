@@ -11,6 +11,11 @@ export default function App() {
       <Text>
         Email: rajpatel9801.ca@gmail.com
       </Text>
+
+      <Text>
+    fgfgfg
+      </Text>
+    
       <StatusBar style="auto" />
     </View>
   );
